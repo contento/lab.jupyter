@@ -1,5 +1,7 @@
 # Lab.Jupyter
 
+> Most samples generated with Open AI ChatGPT 4.0
+
 ## Requirements
 
 See `requirements.txt`
