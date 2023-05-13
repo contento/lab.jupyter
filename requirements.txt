@@ -3,5 +3,6 @@ matplotlib
 networkx
 numpy 
 pandas
+scikit-image
 scikit-learn
 scipy
