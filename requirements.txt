@@ -1,4 +1,6 @@
+graphviz
 matplotlib
+networkx
 numpy 
 pandas
 scikit-learn

@@ -1,0 +1,17 @@
+// Minimax Tree
+digraph {
+	root_MAX_5 -> rootL_Score:-8
+	"rootL_MIN_-8" -> rootLL_Score:-8
+	"rootLL_MAX_-8" -> rootLLL_Score:-8
+	"rootLL_MAX_-8" -> rootLLR_Score:-10
+	"rootL_MIN_-8" -> rootLR_Score:10
+	rootLR_MAX_10 -> rootLRL_Score:10
+	rootLR_MAX_10 -> rootLRR_Score:10
+	root_MAX_5 -> rootR_Score:5
+	rootR_MIN_5 -> rootRL_Score:9
+	rootRL_MAX_9 -> rootRLL_Score:9
+	rootRL_MAX_9 -> rootRLR_Score:-1
+	rootR_MIN_5 -> rootRR_Score:5
+	rootRR_MAX_5 -> rootRRL_Score:5
+	rootRR_MAX_5 -> rootRRR_Score:3
+}
