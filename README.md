@@ -1,6 +1,6 @@
 # Lab.Jupyter
 
-> Most samples generated with Open AI ChatGPT 4.0
+> Most samples generated with OpenAI ChatGPT 4.0
 
 ## Requirements
 
