@@ -1,3 +1,4 @@
+binarytree
 graphviz
 matplotlib
 networkx
