@@ -4,6 +4,7 @@ matplotlib
 networkx
 numpy 
 pandas
+seaborn
 scikit-image
 scikit-learn
 scipy
