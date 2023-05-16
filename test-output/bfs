@@ -1,0 +1,15 @@
+digraph BFS {
+	A [label="1:A"]
+	A -> B
+	B [label="2:B"]
+	B -> D
+	D [label="4:D"]
+	B -> E
+	E [label="5:E"]
+	A -> C
+	C [label="3:C"]
+	C -> F
+	F [label="6:F"]
+	C -> G
+	G [label="7:G"]
+}
