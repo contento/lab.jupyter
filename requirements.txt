@@ -3,6 +3,7 @@ graphviz
 matplotlib
 networkx
 numpy 
+opencv-python
 pandas
 seaborn
 scikit-image
