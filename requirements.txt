@@ -1,3 +1,5 @@
+ipykernel
+
 binarytree
 graphviz
 matplotlib
