@@ -22,6 +22,6 @@ From within VS Code, you can create local environments, using virtual environmen
 python -m pip install --upgrade pip
 
 python -m venv .venv
-./.venv/scripts/activate # bash -> source .venv/bin/activate
+./.venv/scripts/activate # bash -- source .venv/bin/activate
 python -m pip install -U -r requirements.txt
 ```
