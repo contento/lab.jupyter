@@ -1,0 +1,11 @@
+{
+    "email": {
+        "subject": "<b>Meeting Tomorrow</b>",
+        "email-logo": "<img alt=\"Logo\" src=\"./email-logo-01.png\" style=\"width: 20%;\"/>",
+        "from": "jane.doe@example.com",
+        "to": "john.doe@example.com",
+        "cc": "manager@example.com",
+        "bcc": "hr@example.com",
+        "body": "<br/>Let's meet tomorrow at 10am.<br/>\n<i style=\"font-size: 14pt; color: blue;\">Please read the presentation from last week.</i>"
+    }
+}
