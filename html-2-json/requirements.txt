@@ -1,4 +1,0 @@
-ipykernel
-beautifulsoup4
-matplotlib
-numpy 
