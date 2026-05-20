@@ -1,5 +1,14 @@
 # Lab. Jupyter
 
+```text
+  o  o
+\______/
+  |
+     |    https://conten.to
+--------
+```
+
+
 > Most samples generated with OpenAI ChatGPT 4.0
 
 ## Requirements
